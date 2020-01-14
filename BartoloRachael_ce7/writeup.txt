@@ -1,0 +1,10 @@
+FreeSound Source URL: 
+
+N/a
+
+--
+
+If you use a custom UGen (Unit Generator) for your exercise, describe it below:
+
+My custom UGen is reverb. The room size is set, but the damping can be changed by the slider.
+
